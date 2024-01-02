@@ -1,0 +1,12 @@
+com/matrimonial/web/repository/UserRepository.class
+com/matrimonial/web/security/AuthenticatedUser.class
+com/matrimonial/web/security/CustomSecutiryConfig.class
+com/matrimonial/WebMatrimonialApplication.class
+com/matrimonial/web/controller/BaseController.class
+com/matrimonial/web/security/CustomAuthenticationSuccessHandler.class
+com/matrimonial/web/security/CustomAuthenticationFailureHandler.class
+com/matrimonial/web/security/CustomUserDetailsService.class
+com/matrimonial/web/entity/User.class
+com/matrimonial/web/security/CustomUserDetails.class
+com/matrimonial/web/service/UserService.class
+com/matrimonial/web/controller/ManagmentController.class
